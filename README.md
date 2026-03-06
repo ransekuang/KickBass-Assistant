@@ -90,27 +90,5 @@ Polarity = Off
 
 ## 文档
 
-- 产品说明：[docs/PRD.md](/Users/balorclub/Documents/small%20tasks/docs/PRD.md)
-- 中文使用手册：[docs/USER_GUIDE_ZH.md](/Users/balorclub/Documents/small%20tasks/docs/USER_GUIDE_ZH.md)
-- 静态落地页：[site/index.html](/Users/balorclub/Documents/small%20tasks/site/index.html)
-
-## 开源上传建议
-
-推荐上传这些内容：
-
-- `CMakeLists.txt`
-- `README.md`
-- `.gitignore`
-- `src/`
-- `docs/`
-- `site/`
-
-不要上传这些内容：
-
-- `build/`
-- `.DS_Store`
-- 本地生成的 `*.app`、`*.vst3`、`*.dSYM`
-
-## 说明
-
-当前仓库还没有附带开源许可证。如果你准备公开发布到 GitHub，建议在上传前补一个 `LICENSE` 文件。
+- 产品说明：[docs/PRD.md]
+- 中文使用手册：[docs/USER_GUIDE_ZH.md]
