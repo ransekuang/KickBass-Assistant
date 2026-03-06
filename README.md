@@ -91,4 +91,4 @@ Polarity = Off
 ## 文档
 
 - 产品说明：[docs/PRD.md]
-- 中文使用手册：[docs/USER_GUIDE_ZH.md]
+- 中文使用手册：[[docs/USER_GUIDE_ZH.md]](https://github.com/ransekuang/KickBass-Assistant/blob/ff256c9f2574d312d6ad24e09168a2ae4f47cb9d/docs/USER_GUIDE_ZH.md)
